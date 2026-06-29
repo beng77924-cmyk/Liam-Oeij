@@ -1,0 +1,8 @@
+{
+  "name": "FINAL Liam Oeij Portfolio",
+  "description": "Premium minimalist sculpture portfolio and gallery for contemporary artist Liam Oeij.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
